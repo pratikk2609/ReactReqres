@@ -1,4 +1,3 @@
-
 User Management React App
 A React app with Reqres API integration for user authentication and management.
 
@@ -19,6 +18,7 @@ react, react-router-dom, axios, bootstrap, bootstrap-icons
 
 Notes
 Reqres API: Mock service; updates/deletes not persisted server-side.
-State: Local only, refreshes reset changes.
-Token: Stored in localStorage.
 
+State: Local only, refreshes reset changes.
+
+Token: Stored in localStorage.
